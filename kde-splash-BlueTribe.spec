@@ -18,10 +18,11 @@ BuildArch:	noarch
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
-"BlueTribe" KDE splash screen.
+Simple KDE artwork in blue, with simple white KDE3 text.
 
 %description -l pl
-Ekran startowy KDE "BlueTribe".
+Proste elementy graficzne KDE w odcieniach niebieskich z bia³ym
+napisem KDE3.
 
 %prep
 %setup -q -n %{_splash}
