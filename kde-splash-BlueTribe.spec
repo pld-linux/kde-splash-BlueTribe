@@ -6,7 +6,7 @@ Summary(pl):	Ekran startowy KDE
 Name:		kde-splash-%{_splash}
 Version:	1.0
 Release:	2
-License:	GPL
+License:	LGPL
 Group:		X11/Amusements
 #Source0:	http://www.kde-look.org/content/download.php?content=11573&id=1
 Source0:	http://www.kde-look.org/content/files/11573-BlueTribe.tar.bz2
