@@ -2,7 +2,7 @@
 %define		_splash		BlueTribe
 
 Summary:	KDE splash screen
-Summary(pl):	Ekran startowy KDE
+Summary(pl.UTF-8):   Ekran startowy KDE
 Name:		kde-splash-%{_splash}
 Version:	1.0
 Release:	2
@@ -20,8 +20,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 Simple KDE artwork in blue, with simple white KDE3 text.
 
-%description -l pl
-Proste elementy graficzne KDE w odcieniach niebieskich z bia≥ym
+%description -l pl.UTF-8
+Proste elementy graficzne KDE w odcieniach niebieskich z bia≈Çym
 napisem KDE3.
 
 %prep
